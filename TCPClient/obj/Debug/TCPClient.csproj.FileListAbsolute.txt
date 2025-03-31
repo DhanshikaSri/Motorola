@@ -1,0 +1,7 @@
+D:\Training\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Training\TCPClient\bin\Debug\TCPClient.exe
+D:\Training\TCPClient\bin\Debug\TCPClient.pdb
+D:\Training\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\Training\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Training\TCPClient\obj\Debug\TCPClient.exe
+D:\Training\TCPClient\obj\Debug\TCPClient.pdb
